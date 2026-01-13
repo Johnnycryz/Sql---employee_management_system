@@ -16,4 +16,5 @@ I checked on MySQL website and found a schema for an employee database. The sche
 4) departments
 5) dept_manager
 6) titles
-I used ChatGpt to generate dummy data, which I then use to create my database on SQL.
+  
+I used ChatGpt to generate dummy data in an excel file, which I then use to create my database on SQL.
