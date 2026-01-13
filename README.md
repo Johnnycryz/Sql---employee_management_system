@@ -10,7 +10,7 @@ After choosing the type of project, I need to decide whether to build the databa
 Now, I need to decide what are the data that will be inside my employee database. 
 
 I checked on MySQL website and found a schema for an employee database. The schema contains 6 tables
-i) Employees table
+1) Employees table
 2) dept_emp
 3) salaries
 4) departments
